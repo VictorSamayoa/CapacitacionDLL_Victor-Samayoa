@@ -1,0 +1,5 @@
+﻿* 040ac00 - 2026-09-11 22:10:48 -0600: Agregando Ejecutor (VictorSamayoa) (HEAD -> main, origin/Ejecutor_0901-23-3424, Ejecutor_0901-23-3424)
+* 0015395 - 2026-09-11 22:10:41 -0600: Agregando Capa Vista (VictorSamayoa) (origin/Dise├▒o_Capa_Vista_0901-23-3424, Dise├▒o_Capa_Vista_0901-23-3424)
+* efd8efa - 2026-09-11 22:10:34 -0600: Agregando Capa Controlador (VictorSamayoa) (origin/Dise├▒o_Capa_Controlador_0901-23-3424, Dise├▒o_Capa_Controlador_0901-23-3424)
+* 2351d2d - 2026-09-11 22:10:27 -0600: Agregando Capa Modelo (VictorSamayoa) (origin/Dise├▒o_Capa_Modelo_0901-23-3424, Dise├▒o_Capa_Modelo_0901-23-3424)
+* 3da21fc - 2026-09-11 22:10:21 -0600: Initial commit (VictorSamayoa) (origin/main)
