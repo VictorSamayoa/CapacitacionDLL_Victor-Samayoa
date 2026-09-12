@@ -1,0 +1,20 @@
+## Visual Studio / C# .gitignore
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rchive/
+*.log
+*.vspscc
+*.vssscc
+build/
+*.nuget.props
+*.nuget.targets
+.idea/
